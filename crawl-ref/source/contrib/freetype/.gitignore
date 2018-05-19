@@ -1,0 +1,6 @@
+config.mk
+*.pbxuser
+*.perspectivev3
+*.DS_Store
+.cflags
+*.[oa]
